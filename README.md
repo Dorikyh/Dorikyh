@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Dorikyh.
-- 👀 I’m interested in FrontEnd.
-- 🌱 I’m currently learning CSS and JS.
-- 💞️ I’m looking to collaborate in a development group.
+- 👋 Hi, I’m Dorikyh.
+- 🎈 I’m currently learning Python.
 - 📫 How to reach me: @Dorikyh on twitter.
 
 <!---
