@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dorikyh.
-- 🎈 I’m currently learning Python.
-- 📫 How to reach me: @Dorikyh on twitter.
+# Dorikyh
+Hi there, i'm Dorikyh.
+I am the main developer of a game called [Cl1cky](dorikyh.itch.io/Cl1cky).
+I am also learning python in my free-time.
 
-<!---
-Dorikyh/Dorikyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Socials
+* [Discord](https://discord) 
+* [Twitter](https://twitter.com/dorikyh)
