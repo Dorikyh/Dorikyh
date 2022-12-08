@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, i'm Dorikyh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">I'm a Junior developer who codes useful python scripts</h3>
+<p align="center">I'm a Junior developer who codes useful Python scripts</p>
 
   
 </div>
