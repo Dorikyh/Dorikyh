@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, i'm Dorikyh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<p align="center">I'm a Junior developer who codes useful Python scripts</p>
+<p align="center">I'm a Junior coder who scripts tasks with various tools and languajes.</p>
 
   
 </div>
@@ -25,6 +25,13 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="powershell" width="40" height="40"/> 
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"> 
+    <img src="https://bashlogo.com/img/symbol/png/full_colored_dark.png" alt="bash" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 
