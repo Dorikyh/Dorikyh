@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, i'm Dorikyh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<p align="center">I am a passionate junior backend developer who focuses on constructing sturdy and scalable web applications. Continuously expanding my knowledge and delving into novel technologies to elevate my programming abilities. Enthusiastic about making valuable contributions to impactful projects and collaborating with fellow professionals in the field.</p>
+<p align="center">I am a passionate backend developer who focuses on constructing robust and scalable software.</p>
 
   
 </div>
