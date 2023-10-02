@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, i'm Dorikyh <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<p align="center">I'm a passionate backend developer, studying and focusing on constructing robust and scalable software./p>
+<p align="center">I'm a passionate backend developer, studying and focusing on constructing robust and scalable software.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
