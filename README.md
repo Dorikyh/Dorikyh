@@ -11,7 +11,7 @@
 [<img align="left" height="94px" width="94px" alt="Kotone Bot" src="https://www.kotone.tech/kotone.png"/>](https://www.kotone.tech/)
 
 **FullStack Developer** \
-[**Kotone**](https://www.kotone.tech/) • Indie-Dev \
-Technologies: `Python`, `FastAPI`, `JavaScript`, `ReactJS`.\
-Achievements: [Web Panel](https://www.panel.kotone.tech/), [Social Media](<https://https://kotone.tech/blog>)
+[**Kotone**](https://www.kotone.tech/) • Backend \
+Technologies: `FastAPI`, `ReactJS`.\
+Achievements: [Discord Bot](https://www.panel.kotone.tech/), [Dashboard](<https://https://kotone.tech/blog>).
 <br/>
