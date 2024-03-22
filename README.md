@@ -8,7 +8,7 @@
 
 ## My projects
 
-[<img align="left" height="94px" width="94px" alt="Kotone Bot" src="https://www.kotone.tech/kotone.png"/>](https://www.kotone.tech/)
+[<img align="left" height="94px" width="94px" alt="Kotone Bot" src="https://www.kotone.tech/kotone-256.png"/>](https://www.kotone.tech/)
 
 **FullStack Developer** \
 [**Kotone**](https://www.kotone.tech/) • Discord Bot \
