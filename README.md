@@ -1,4 +1,4 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorikyh&layout=pie&theme=tokyonight" alt="Github Info">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorikyh&layout=pie&theme=tokyonight" alt="Github Info" min-width="300px" max-width="300px" width="300px" align="right">
 
 # Hi there, I'm Dorikyh.
 
