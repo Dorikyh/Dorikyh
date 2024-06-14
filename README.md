@@ -14,6 +14,8 @@
 
 ## My projects
 
+<br>
+
 [<img align="left" height="94px" width="94px" alt="Kotone Bot" src="https://www.kotone.tech/kotone-256.png"/>](https://www.kotone.tech/)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dorikyh&repo=kotone-dashboard&theme=gruvbox">
