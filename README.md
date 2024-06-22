@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%5539cc)
 
 
-<p>I'm a dedicated Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases, asynchronous systems and Data Science.</p>
+<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases, asynchronous systems and Data Science, also I have knowledge in Cibersecurity and Git & Github.</p>
 
 ## My projects
 
