@@ -1,4 +1,4 @@
-# Dorikyh, Backend Developer
+# Dorikyh, FullStack Developer
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorikyh&layout=donut&theme=gruvbox" alt="Github Info" min-width="350px" max-width="350px" width="300px" align="right">
 
@@ -10,7 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%5539cc)
 
 
-<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases, asynchronous systems and Data Science, also I have knowledge in Cibersecurity and Git & Github.</p>
+<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in JavaScript, Git & Github.</p>
 
 ## My projects
 
