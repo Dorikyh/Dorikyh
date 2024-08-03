@@ -14,14 +14,14 @@
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Kotone Bot" src="https://kotone.vercel.app/kotone-256.png"/>](https://www.kotone.tech/)
+[<img align="left" height="94px" width="94px" alt="Aure Bot" src="https://aurebot.vercel.app/kotone-256.png"/>](https://www.kotone.tech/)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dorikyh&repo=kotone-dashboard&theme=gruvbox">
 
 **FullStack Developer** \
-[**Kotone**](https://www.kotone.tech/) • Discord Bot \
+[**AureBot**](https://www.kotone.tech/) • Discord Bot \
 Technologies: `FastAPI`, `ReactJS` \
-Achievements: [Bot](https://www.kotone.tech/), [Web & API ](https://kotone.tech/).
+Achievements: [Bot](https://aurebot.vercel.app/), [Web & API](https://aurebot.vercel.app/).
 
 <details>
   <summary><h3>Other Stats</h3></summary>
