@@ -5,10 +5,10 @@
 <img src="https://dcbadge.limes.pink/api/shield/841368898146402355"
 />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Static GitHub">
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%5539cc)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in JavaScript, Git & Github.</p>
+<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in TypeScript, NodeJS, Git & Github.</p>
 
 ## My projects
 
