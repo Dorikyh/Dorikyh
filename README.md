@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With two years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in TypeScript, NodeJS, Git & Github.</p>
+<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With three years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in TypeScript, Docker and Git</p>
 
 ## My projects
 
@@ -16,12 +16,12 @@
 
 [<img align="left" height="94px" width="94px" alt="Aure Bot" src="https://aurebot.vercel.app/kotone-256.png"/>](https://www.kotone.tech/)
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dorikyh&repo=kotone-dashboard&theme=gruvbox">
+<img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dorikyh&repo=aure-web&theme=gruvbox">
 
 **FullStack Developer** \
-[**AureBot**](https://www.kotone.tech/) • Discord Bot \
+[**AureBot**](https://aure-web.vercel.app/aure.png) • Discord Bot \
 Technologies: `FastAPI`, `ReactJS` \
-Achievements: [Bot](https://aurebot.vercel.app/), [Web & API](https://aurebot.vercel.app/).
+Achievements: [Bot](https://aure-web.vercel.app/), [Web & API](https://aure-web.vercel.app/).
 
 <details>
   <summary><h3>Other Stats</h3></summary>
