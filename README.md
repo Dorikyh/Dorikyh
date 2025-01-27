@@ -14,7 +14,7 @@
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Aure Bot" src="https://aurebot.vercel.app/kotone-256.png"/>](https://www.kotone.tech/)
+[<img align="left" height="94px" width="94px" alt="Aure Bot" src="https://aure-web.vercel.app/aure-256.png"/>](https://www.aure-web.vercel.app/)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/pin/?username=dorikyh&repo=aure-web&theme=gruvbox">
 
