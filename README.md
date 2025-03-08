@@ -8,7 +8,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With three years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in TypeScript, Docker and Git</p>
+<p>I'm a Software Developer building robust and scalable services with the most efficient solutions. With three years of Python experience, I specialize in REST APIs, SQL Databases & asynchronous systems, also I have knowledge in TypeScript, Docker and Git. Currently learning Rust.</p>
 
 ## My projects
 
